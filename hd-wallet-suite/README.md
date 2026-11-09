@@ -7,8 +7,8 @@
 [![Standards](https://img.shields.io/badge/BIP-32%20%7C%2039%20%7C%2044%20%7C%2049%20%7C%2084%20%7C%2086%20%7C%20174%20%7C%20380-success.svg)](#)
 
 > 🌐 **Run Online in Your Browser (Web Edition)**:
-> - **Primary Custom Domain**: **[https://hd-wallet.io](https://hd-wallet.io)**
-> - **GitHub Pages Mirror**: **[https://gsibuilder.github.io/hd-wallet-suite/](https://gsibuilder.github.io/hd-wallet-suite/)**
+> - **Local / Custom Domain**: **[http://hd-wallet-suite.io](http://hd-wallet-suite.io)**
+> - **GitHub Pages Public URL**: **[https://gsibuilder.github.io/hd-wallet-suite/](https://gsibuilder.github.io/hd-wallet-suite/)**
 > *(100% client-side execution — all cryptographic key derivations, BIP-39 seeds, 50+ multichain addresses, BIP-380 descriptors, $2^{256}$ key space navigation, and forensic carving run locally in your browser with zero external dependencies.)*
 
 **HD Wallet Cryptographic Engine & Multichain Suite** is a comprehensive desktop cryptographic workbench, hierarchical deterministic (HD) wallet derivation engine, multichain portfolio inspector, and digital forensics/recovery toolkit built with Python and PyQt6.
