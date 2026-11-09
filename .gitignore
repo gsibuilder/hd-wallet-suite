@@ -1,0 +1,19 @@
+# Python virtual environments & bytecode
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE & Editor metadata
+.idea/
+.vscode/
+
+# Debian build staging & binary packages (>100MB)
+*.deb
+hd-wallet-suite/deb_root/
+/tmp/
+
+# Local runtime logs & dumps
+possible_passwords.log
+wallet_dump.json

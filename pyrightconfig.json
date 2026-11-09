@@ -1,0 +1,9 @@
+{
+  "extraPaths": [
+    "hd-wallet-suite/hd_wallet",
+    "/usr/lib/python3/dist-packages"
+  ],
+  "venvPath": ".",
+  "venv": ".venv",
+  "reportMissingModuleSource": false
+}
